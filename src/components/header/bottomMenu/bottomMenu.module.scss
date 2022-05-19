@@ -1,0 +1,83 @@
+.bottomMenu {
+  width: 100%;
+  min-height: 114px;
+  padding: 32px 24px 38px;
+  background-image: url("../../../images/fon.png");
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  row-gap: 20px;
+  align-items: center;
+  color: #fff;
+  img {
+    margin-right: 12px;
+  }
+
+  .description {
+    margin-right: 56px;
+    p {
+      font-weight: 700;
+      font-size: 20px;
+      line-height: 20px;
+      letter-spacing: 0.006em;
+      margin-top: 0;
+      margin-bottom: 0;
+    }
+
+    span {
+      color: #c9cccf;
+    }
+  }
+
+  .description:nth-child(4) {
+    p,
+    span {
+      font-size: 13px;
+    }
+  }
+
+  .line {
+    height: 100%;
+    border-right: 1px solid #798797;
+    margin-right: 24px;
+  }
+
+  .item {
+    display: flex;
+    align-items: center;
+    margin-right: 12px;
+    line-height: 6px;
+
+	img {
+		margin-top: 10px;
+	}
+	.desc {
+		display: flex;
+		flex-direction:column;
+		justify-content: flex-start;
+	}
+  }
+
+  .btn {
+	margin-top: 10px;
+    width: 95px;
+    height: 42px;
+    background-color: #27ae60;
+    border-radius: 3px;
+    text-align: center;
+    margin-left: 12px;
+    margin-right: 12px;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 14px;
+    line-height: 13px;
+    align-items: center;
+    text-transform: uppercase;
+    padding-top: 8px;
+    cursor: pointer;
+  }
+
+  .btn:hover {
+    opacity: 0.5;
+  }
+}

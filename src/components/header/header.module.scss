@@ -1,0 +1,24 @@
+.header {
+  min-height: 48px;
+  background-color: #1F2B38;
+  width: 100%;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  column-gap: 50px;
+}
+
+.headerMobile {
+  display: none;
+}
+
+@media screen and (max-width: 680px) {
+  .header, .bottomMenu{
+    display: none;
+  }
+
+  .headerMobile {
+    display: block;
+  }
+}
+

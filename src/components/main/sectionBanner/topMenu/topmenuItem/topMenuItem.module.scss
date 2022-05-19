@@ -1,0 +1,16 @@
+.topMenuItem {
+  color: #c9cccf;
+  font-weight: 700;
+  font-size: 15px;
+  line-height: 22px;
+  padding: 22px 58px 17px 32px;
+  border-top: 5px solid #364453;
+  text-transform: uppercase;
+  cursor: pointer;
+}
+
+.topMenuItem:hover {
+  color: #fff;
+  background-color: #1F2B38;
+  border-top: 5px solid #bb8e34;
+}

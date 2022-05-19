@@ -1,0 +1,64 @@
+.mainBanner {
+  max-width: 100%;
+  background-color: #27ae60;
+  position: relative;
+  .image {
+    background-color: linear-gradient(
+      90deg,
+      #ffffff 57.93%,
+      rgba(255, 255, 255, 0) 96.08%
+    );
+    position: relative;
+
+    .descImage {
+      position: absolute;
+      bottom: 0;
+      left: 0;
+	  max-width: 60%;
+	  font-weight: 400;
+font-size: 12px;
+line-height: 12px;
+color: #2B3846;
+margin-left: 33px;
+margin-bottom: 24px;
+    }
+  }
+
+  .description {
+    width: 402px;
+    height: 319px;
+    background-color: #316d4a;
+    color: #fff;
+    position: absolute;
+    top: 24px;
+    right: 24px;
+    padding: 0 24px;
+
+    h2 {
+      color: #f7f896;
+      font-weight: 500;
+      font-size: 14px;
+      line-height: 20px;
+    }
+    h3 {
+      font-weight: 700;
+      font-size: 26px;
+      line-height: 28px;
+      align-items: center;
+      text-transform: uppercase;
+    }
+    p {
+      font-weight: 400;
+      font-size: 13px;
+      line-height: 18px;
+    }
+    button {
+      background-color: #bb8e34;
+      border: none;
+      padding: 14px 24px;
+      color: #fff;
+      text-decoration: uppercase;
+      margin-bottom: 34px;
+    }
+  }
+}

@@ -1,0 +1,53 @@
+.headerMobile {
+  padding: 24px 16px;
+  background-image: url("../../../images/fon.png");
+  display: flex;
+  justify-content: space-between;
+  .main {
+    display: flex;
+    align-items: center;
+    .lines {
+      display: flex;
+      flex-direction: column;
+      gap: 5px;
+	  cursor: pointer;
+      .line {
+        width: 24px;
+        height: 2px;
+        background-color: #28a55d;
+        margin-right: 20px;
+	}
+}
+.lines:hover {
+	.line {
+		background-color: #ffffff;
+		}
+	}
+    img {
+      margin-right: 7px;
+    }
+  }
+  .desc {
+    color: #fff;
+  }
+
+  .link {
+    display: flex;
+    flex-direction: row;
+    padding-right: 24px;
+    margin-top: 20px;
+    gap: 60px;
+    cursor: pointer;
+    .call2,
+    .cart,
+    .search {
+      transform: scale(2);
+    }
+
+    .call2:hover *,
+    .cart:hover *,
+    .search:hover * {
+      fill: #fff;
+    }
+  }
+}
