@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.css": "/figma-landing-3/static/css/main.08ad1465.css",
+    "main.js": "/figma-landing-3/static/js/main.c631a35b.js",
+    "static/media/fon3.png": "/figma-landing-3/static/media/fon3.db0d9ba6c85a5d4f49ef.png",
+    "static/media/fon.png": "/figma-landing-3/static/media/fon.35be3e9c798be330d709.png",
+    "static/media/link5.svg": "/figma-landing-3/static/media/link5.0d65e544b898f9255baf52fd93c95e68.svg",
+    "static/media/link4.svg": "/figma-landing-3/static/media/link4.3570a8bef9b140498d16f932bb52cb80.svg",
+    "static/media/plan.svg": "/figma-landing-3/static/media/plan.61d7dbe085805d869c5d2a691d66fc57.svg",
+    "static/media/link3.svg": "/figma-landing-3/static/media/link3.502316965b2deb77e742d5418b7c7e14.svg",
+    "static/media/house.svg": "/figma-landing-3/static/media/house.68210a5fc70e8745ae950a010bd777a6.svg",
+    "static/media/climate.svg": "/figma-landing-3/static/media/climate.ab43b58cf64969506e2492f7a3fac312.svg",
+    "static/media/hot.svg": "/figma-landing-3/static/media/hot.41397368038a06c00ac512e44604ad09.svg",
+    "static/media/box.svg": "/figma-landing-3/static/media/box.bab4af20b1f69e48b6c0df6c9993362f.svg",
+    "static/media/obvod.svg": "/figma-landing-3/static/media/obvod.d4d071486027126d2fe0c4a79b115ec5.svg",
+    "static/media/like.svg": "/figma-landing-3/static/media/like.45481f6a03fa6d3fdf5618d2ef5bcf28.svg",
+    "index.html": "/figma-landing-3/index.html",
+    "static/media/search.svg": "/figma-landing-3/static/media/search.54243a90c4a98a4ad907866db00c142a.svg",
+    "static/media/call2.svg": "/figma-landing-3/static/media/call2.a4ee441eadab351f9c08fd37ffe05742.svg",
+    "static/media/user.svg": "/figma-landing-3/static/media/user.9b228d1ec09b2de6bd96035ff51e12b7.svg",
+    "static/media/cart.svg": "/figma-landing-3/static/media/cart.4c13eaddbc78b8e056308760e6b5efec.svg",
+    "static/media/home.svg": "/figma-landing-3/static/media/home.27c0391a644ec6cd28018f3039fe25a4.svg",
+    "static/media/location.svg": "/figma-landing-3/static/media/location.ce3856860355f6ea216938ca6f09e8f1.svg",
+    "static/media/arrow-green.svg": "/figma-landing-3/static/media/arrow-green.4f275bcf5a8d8c767e218a3e292bccb8.svg",
+    "main.08ad1465.css.map": "/figma-landing-3/static/css/main.08ad1465.css.map",
+    "main.c631a35b.js.map": "/figma-landing-3/static/js/main.c631a35b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.08ad1465.css",
+    "static/js/main.c631a35b.js"
+  ]
+}
