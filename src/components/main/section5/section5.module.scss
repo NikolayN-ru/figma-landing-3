@@ -1,0 +1,35 @@
+.section5 {
+  background-color: #fff;
+  h5 {
+    padding-top: 30px;
+    margin-bottom: 30px;
+    text-align: center;
+    text-decoration: uppercase;
+    font-weight: 700;
+    font-size: 30px;
+    line-height: 28px;
+  }
+  .description {
+    max-width: 1114px;
+    margin: 0 auto;
+    display: flex;
+    justify-content: space-between;
+	margin-bottom: 50px;
+    span {
+      max-width: 560px;
+      color: #798797;
+      font-weight: 400;
+      font-size: 14px;
+    }
+    button {
+      width: 139px;
+      height: 42px;
+      color: #fff;
+      text-align: center;
+      text-transform: uppercase;
+      border-radius: 3px;
+      border: none;
+      background-color: #27ae60;
+    }
+  }
+}

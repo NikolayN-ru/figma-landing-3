@@ -1,0 +1,41 @@
+.section3Item {
+  width: 194px;
+  height: 234px;
+  //   opacity: 0.7;
+  background-color: rgba(34, 47, 60, 0.75);
+  border-radius: 0px 16px 16px 16px;
+  padding: 20px;
+  position: relative;
+  cursor: pointer;
+
+  p {
+    color: #f6c666;
+    align-items: center;
+    text-transform: uppercase;
+    font-weight: 700;
+    font-size: 18px;
+  }
+  span {
+    align-items: center;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 16px;
+    color: #fff;
+  }
+
+  .label {
+    position: absolute;
+    width: 54px;
+    height: 54px;
+    border-radius: 16px 16px 0px 16px;
+    border: 3px solid #bb8e34;
+    color: #fff;
+    font-weight: 700;
+    font-size: 27px;
+    line-height: 28px;
+	text-align: center;
+	top: -40px;
+	left: -40px;
+	padding-top: 10px;
+  }
+}

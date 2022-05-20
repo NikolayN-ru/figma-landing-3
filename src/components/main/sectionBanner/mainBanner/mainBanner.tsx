@@ -1,10 +1,11 @@
 import styles from "./mainBanner.module.scss";
+import Baner from '../../../../images/baner1.png';
 
 const MainBanner = () => {
   return (
     <div className={styles.mainBanner}>
       <div className={styles.image}>
-        <img src="./baner1.png" />
+        <img src={Baner} />
         <p className={styles.descImage}>
           *Технология Energy Efficent Economy (EEE, или энергосберегающая
           экономия) предполагает внедрение в доме сбалансированной и экологичной
