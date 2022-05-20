@@ -1,8 +1,10 @@
 {
   "files": {
-    "main.css": "/figma-landing-3/static/css/main.08ad1465.css",
-    "main.js": "/figma-landing-3/static/js/main.c631a35b.js",
+    "main.css": "/figma-landing-3/static/css/main.abfbdf6c.css",
+    "main.js": "/figma-landing-3/static/js/main.275b4cbc.js",
     "static/media/fon3.png": "/figma-landing-3/static/media/fon3.db0d9ba6c85a5d4f49ef.png",
+    "static/media/baner1.png": "/figma-landing-3/static/media/baner1.343cbf6a4b862175702f.png",
+    "static/media/floor.png": "/figma-landing-3/static/media/floor.c2081474b2ca4244e776.png",
     "static/media/fon.png": "/figma-landing-3/static/media/fon.35be3e9c798be330d709.png",
     "static/media/link5.svg": "/figma-landing-3/static/media/link5.0d65e544b898f9255baf52fd93c95e68.svg",
     "static/media/link4.svg": "/figma-landing-3/static/media/link4.3570a8bef9b140498d16f932bb52cb80.svg",
@@ -22,11 +24,11 @@
     "static/media/home.svg": "/figma-landing-3/static/media/home.27c0391a644ec6cd28018f3039fe25a4.svg",
     "static/media/location.svg": "/figma-landing-3/static/media/location.ce3856860355f6ea216938ca6f09e8f1.svg",
     "static/media/arrow-green.svg": "/figma-landing-3/static/media/arrow-green.4f275bcf5a8d8c767e218a3e292bccb8.svg",
-    "main.08ad1465.css.map": "/figma-landing-3/static/css/main.08ad1465.css.map",
-    "main.c631a35b.js.map": "/figma-landing-3/static/js/main.c631a35b.js.map"
+    "main.abfbdf6c.css.map": "/figma-landing-3/static/css/main.abfbdf6c.css.map",
+    "main.275b4cbc.js.map": "/figma-landing-3/static/js/main.275b4cbc.js.map"
   },
   "entrypoints": [
-    "static/css/main.08ad1465.css",
-    "static/js/main.c631a35b.js"
+    "static/css/main.abfbdf6c.css",
+    "static/js/main.275b4cbc.js"
   ]
 }
